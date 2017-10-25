@@ -1,2 +1,1 @@
-# Vulcan-Academy.github.io
-Vulcanomicon
+# Vulcanomicon
