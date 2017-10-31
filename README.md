@@ -19,8 +19,9 @@ The Vulcan Academy's operating system.
 * __Reality__: The set of everything that exists or does not exist.
 * __Information__: What is conveyed by a particuar arrangement of things.
 * __Empirical Reality__: __Reality__ that is verifiable by observation rather than theory or pure logic.
-* __Action__: The interaction between __Information__.
+* __Action__: An interaction between __Information__.
+* __Pattern__: A distinguishable set of __Information__.
 * __Decision Function__: Given __Reality__ _R_ and __Actions__ _A_ = { _a_<sub>0</sub>, ... }, we define __Decision Function__ _d_ such that _d_(_R_) = { _a_<sub>k</sub>, ... }.
-* __Agent__: A distinguishable set of __Information__ that has the ability to perform __Actions__. __Agents__ choose which __Action__ to perform based on a __Decision Function__.
+* __Agent__: A __Pattern__ that has the ability to perform __Actions__. __Agents__ choose which __Action__ to perform based on a __Decision Function__.
     * An __Agent__ inhabiting __Empirical Reality__ evaluates its __Decision Function__ at every infintesimally small time-dimension increment.
 * __Rational Agent__: an __Agent__ who's __Decision Function__ operates according to beliefs.
