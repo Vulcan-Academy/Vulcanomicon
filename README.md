@@ -3,7 +3,7 @@
 The Vulcan Academy's operating system
 
 1. The name of the game is Vulcanomicon
-1. The goal of the game is to create a learning organization
+1. The goal of the game is to develop an operating system for the Vulcan Academy
 1. The players of the game are the [members of the Vulcan Academy](https://github.com/orgs/Vulcan-Academy/people)
 1. All players must unanimously agree to all rule changes
 1. Proposals may add, amend or repeal a rule
