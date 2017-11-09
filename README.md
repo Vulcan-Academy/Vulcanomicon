@@ -15,4 +15,6 @@ The Vulcan Academy's operating system
 
 ## Lexicon
 
-agent: any system that is best characterized as acting according to beliefs
+* __Bit__: A boolean variable. Represents the answer to a yes/no question.
+* __Bit String__: A sequence of __Bits__.
+* __Agent__: Any system that is best characterized as acting according to beliefs.
