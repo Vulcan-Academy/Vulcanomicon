@@ -10,7 +10,8 @@ The Vulcan Academy's operating system
 1. Player must submit proposals to change the rules through github pull requests
 1. All players must unanimously agree to all rule changes
 1. Proposals may add, amend or repeal a rule
-1. All rules should be logically self-consistent
+1. Logic is the ultimate arbiter of all disagreements
+1. All rules and resolutions should be logically self-consistent
 
 ## Lexicon
 
