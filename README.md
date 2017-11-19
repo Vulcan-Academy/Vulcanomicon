@@ -16,3 +16,19 @@ The Vulcan Academy's operating system
 ## Lexicon
 
 agent: any system that is best characterized as acting according to beliefs
+
+## Resources
+
+### Web sites
+
+* [LessWrong](http://lesswrong.com/)
+* [CFAR](http://www.rationality.org/)
+
+### Blogs
+
+* [Overcoming Bias](http://www.overcomingbias.com/)
+* [SlateStarCodex](http://slatestarcodex.com/)
+
+### Books
+
+* [Rationality: From AI to Zombies](https://www.goodreads.com/book/show/25131230-rationality)
