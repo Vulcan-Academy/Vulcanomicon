@@ -34,3 +34,7 @@ The Vulcan Academy's operating system
 ### Books
 
 * [Rationality: From AI to Zombies](https://www.goodreads.com/book/show/25131230-rationality)
+
+### People
+
+* [Eliezer Yudkowsky](https://twitter.com/ESYudkowsky)
