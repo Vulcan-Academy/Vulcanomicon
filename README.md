@@ -44,4 +44,5 @@ The Vulcan Academy's operating system
 * [Julia Galef](https://twitter.com/juliagalef)
 * [Robin Hanson](https://twitter.com/robinhanson)
 * [Michael Shermer](https://twitter.com/michaelshermer)
+* [Scott Alexander](https://twitter.com/slatestarcodex)
 
