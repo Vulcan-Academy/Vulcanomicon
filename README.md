@@ -34,3 +34,9 @@ The Vulcan Academy's operating system
 ### Books
 
 * [Rationality: From AI to Zombies](https://www.goodreads.com/book/show/25131230-rationality)
+
+### Just Some Sample LaTeX
+
+Universal prior $\Zeta(x) := \sum_v P(v)v(x)$
+
+$$\Zeta ( w_{n+1} = 0 | W_{1:n}) = \frac{\Zeta(w_{1:n}0)}{\Zeta(w_{1:n})}$$
