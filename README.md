@@ -48,3 +48,8 @@ The Vulcan Academy's operating system
 * [Scott Alexander](https://twitter.com/slatestarcodex)
 * [Max Tegmark](https://twitter.com/tegmark)
 
+### Just Some Sample LaTeX
+
+Universal prior $\Zeta(x) := \sum_v P(v)v(x)$
+
+$$\Zeta ( w_{n+1} = 0 | W_{1:n}) = \frac{\Zeta(w_{1:n}0)}{\Zeta(w_{1:n})}$$
