@@ -38,3 +38,7 @@ The Vulcan Academy's operating system
 ### People
 
 * [Eliezer Yudkowsky](https://twitter.com/ESYudkowsky)
+* [Julia Galef](https://twitter.com/juliagalef)
+* [Robin Hanson](https://twitter.com/robinhanson)
+* [Michael Shermer](https://twitter.com/michaelshermer)
+
