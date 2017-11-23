@@ -25,6 +25,7 @@ The Vulcan Academy's operating system
 
 * [LessWrong](http://lesswrong.com/)
 * [CFAR](http://www.rationality.org/)
+* [How To Be A Stoic](https://howtobeastoic.wordpress.com/)
 
 ### Blogs
 
