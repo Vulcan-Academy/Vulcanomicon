@@ -35,6 +35,8 @@ The Vulcan Academy's operating system
 ### Books
 
 * [Rationality: From AI to Zombies](https://www.goodreads.com/book/show/25131230-rationality)
+* [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
+* [Gödel, Escher, Bach](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
 
 ### People
 
