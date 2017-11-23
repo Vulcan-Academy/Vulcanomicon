@@ -50,6 +50,9 @@ The Vulcan Academy's operating system
 
 ### Just Some Sample LaTeX
 
+Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
+\\[ \frac{1}{n^{2}} \\]
+
 Universal prior $\Zeta(x) := \sum_v P(v)v(x)$
 
 $$\Zeta ( w_{n+1} = 0 | W_{1:n}) = \frac{\Zeta(w_{1:n}0)}{\Zeta(w_{1:n})}$$
