@@ -16,7 +16,7 @@ The Vulcan Academy's operating system
 ## Lexicon
 
 * __Bit__: A boolean variable $$ b \in \{ 0, 1 \} $$. Represents the answer to a yes/no question.
-* __Bit String__: A sequence of __Bits__ or arbitrary length $$ (b_k)_{k=0}^n $$.
+* __Bit String__: A sequence of __Bits__ of arbitrary length $$ (b_k)_{k=0}^n $$.
 * __Agent__: Any system that is best characterized as acting according to beliefs.
 
 ## Resources
