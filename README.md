@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
 # Vulcanomicon
 
 The Vulcan Academy's operating system
@@ -17,8 +15,8 @@ The Vulcan Academy's operating system
 
 ## Lexicon
 
-* __Bit__: A boolean variable. Represents the answer to a yes/no question.
-* __Bit String__: A sequence of __Bits__.
+* __Bit__: A boolean variable $$ b \in \{ 0, 1 \} $$. Represents the answer to a yes/no question.
+* __Bit String__: A sequence of __Bits__ of arbitrary length $$ (b_k)_{k=0}^n $$.
 * __Agent__: Any system that is best characterized as acting according to beliefs.
 
 ## Resources
@@ -49,12 +47,3 @@ The Vulcan Academy's operating system
 * [Michael Shermer](https://twitter.com/michaelshermer)
 * [Scott Alexander](https://twitter.com/slatestarcodex)
 * [Max Tegmark](https://twitter.com/tegmark)
-
-### Just Some Sample LaTeX
-
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-
-Universal prior $\Zeta(x) := \sum_v P(v)v(x)$
-
-$$\Zeta ( w_{n+1} = 0 | W_{1:n}) = \frac{\Zeta(w_{1:n}0)}{\Zeta(w_{1:n})}$$
