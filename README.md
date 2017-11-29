@@ -12,6 +12,7 @@ The Vulcan Academy's operating system
 1. Proposals may add, amend or repeal a rule
 1. Logic is the ultimate arbiter of all disagreements
 1. All rules and resolutions should be logically self-consistent
+1. Vulcans declare [Crocker's Rules](https://wiki.lesswrong.com/wiki/Crocker's_rules) with each other
 
 ## Lexicon
 
@@ -48,3 +49,7 @@ The Vulcan Academy's operating system
 * [Michael Shermer](https://twitter.com/michaelshermer)
 * [Scott Alexander](https://twitter.com/slatestarcodex)
 * [Max Tegmark](https://twitter.com/tegmark)
+* [Richard Dawkins](https://twitter.com/RichardDawkins)
+* [Daniel Dennett](https://twitter.com/danieldennett)
+* [Sam Harris](https://twitter.com/SamHarrisOrg)
+
