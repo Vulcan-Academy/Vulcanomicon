@@ -49,3 +49,7 @@ The Vulcan Academy's operating system
 * [Michael Shermer](https://twitter.com/michaelshermer)
 * [Scott Alexander](https://twitter.com/slatestarcodex)
 * [Max Tegmark](https://twitter.com/tegmark)
+* [Richard Dawkins](https://twitter.com/RichardDawkins)
+* [Daniel Dennett](https://twitter.com/danieldennett)
+* [Sam Harris](https://twitter.com/SamHarrisOrg)
+
