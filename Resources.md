@@ -5,11 +5,12 @@
 * [LessWrong](http://lesswrong.com/)
 * [CFAR](http://www.rationality.org/)
 * [How To Be A Stoic](https://howtobeastoic.wordpress.com/)
+* [Principia Cybernetica](http://pespmc1.vub.ac.be/)
 
 ## Blogs
 
 * [Overcoming Bias](http://www.overcomingbias.com/)
-* [SlateStarCodex](http://slatestarcodex.com/)
+* [Slate Star Codex](http://slatestarcodex.com/)
 
 ## Books
 
