@@ -9,3 +9,4 @@
 * __Agent Boundary__: The surface that separates an __Agent__ from its __Environment__.
 * __Observation__: __Information__ that crosses the __Agent Boundary__, entering the __Agent__.
 * __Action__: __Information__ that crosses the __Agent Boundary__, exiting the __Agent__.
+* [__Reasonable__/__Unreasonable__](Reasonable.md)
