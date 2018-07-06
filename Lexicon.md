@@ -14,6 +14,6 @@
 * __Model__: A __System__ that represents another __System__. It can be assigned a truth __Value__ which expresses the accuracy of the representation. Examples of __Models__ include maps, blueprints, simulations, mathematical models, beliefs and claims.
 * __World Model__: An __Agent__'s internal __Model__ of its __World__.
 * __Action__: __Information__ that crosses the __Agent Boundary__, exiting the __Agent__.
-* __Value__: An __Agent__'s expression of preference between two alternatives. __Value__ may favour either alternative, or both (reflecting indifference). __Value__ is not intrinsic, and cannot be specified in the absence of an __Agent__.
+* __Value__: An __Agent__'s expression of preference between two alternatives. __Value__ may favour either alternative, or may reflect indifference. __Value__ is not intrinsic, and cannot be specified in the absence of an __Agent__.
 * __Valuation__: The process of assigning a __Value__.
 * [__Reasonable__/__Unreasonable__](Reasonable.md)
