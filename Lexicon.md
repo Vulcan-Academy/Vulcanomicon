@@ -4,9 +4,9 @@
 * __Bit String__: A sequence of __Bits__ of arbitrary length $$ B^n := (b_k)_{k=0}^n , \  k \in \mathbb{N} $$.
 * __Vulcan Set__: The set of all __Bit Strings__ of infinite length $$ \mathbb{V} := \{ B_0^{\infty}, B_1^{\infty}, \dots, B_{\infty}^{\infty} \} , \ B_i^{\infty} \neq B_j^{\infty} $$.
 * __Information__: Anything that can be encoded into a __Bit String__.
-* __Environment__: __Information__ that is defined relative to a particular __Actor__. It is seperated from an __Actor__ by an __Actor Boundary__, and encompasses all content needed to process any relevant __Events__.
+* __Environment__: An __Object__ that is defined relative to a particular __Actor__. It is seperated from an __Actor__ by an __Actor Boundary__, and encompasses all content needed to process any relevant __Events__.
 * __World__: Synonymous with __Environment__.
-* __Actor__: __Information__ that interacts with an __Environment__ through __Events__.
+* __Actor__: An __Object__ that interacts with an __Environment__ through __Events__.
 * __Actor Boundary__: The surface that separates an __Actor__ from its __Environment__.
 * __Event__: __Information__ that crosses the __Actor Boundary__.
 * __Observation__: An __Event__ in which __Information__ enters an Agent.
