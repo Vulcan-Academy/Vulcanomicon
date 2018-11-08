@@ -15,12 +15,9 @@
 * __System__: An __Object__ composed of correlated member __Objects__.
 * __Model__: A __System__ that represents another __System__. It can be assigned a truth value (measurement) which expresses the accuracy of the representation. Examples of __Models__ include maps, blueprints, simulations, mathematical models, beliefs and claims.
 * __World State__: Given that the __Information__ in an __Environment__ may change with respect to some parameter (for example, time), __World State__ defines a static snapshot of the __Information__ within an __Environment__. In other words, a __World State__ is an __Environment__ where all __Information__ is held constant.
-* __World Model__*: An __Actor__'s internal __Model__ of its __World__. 
+* __World Model__: An Agent's internal __Model__ of its __World__. 
 * __Action__: An __Event__ in which __Information__ exits an Agent.
 * __Action Space__: The set of all __Actions__ that a particular Agent may perform. All __Actions__ performed by an Agent are sampled from its __Action Space__.
-* __Value__*: An __Actor__'s expression of preference between two __World States__. __Value__ may favour either __State__, or may reflect indifference. __Value__ is not intrinsic, and cannot be specified in the absence of an __Actor__.
+* __Value__: An Agent's expression of preference between two __World States__. __Value__ may favour either __State__, or may reflect indifference. __Value__ is not intrinsic, and cannot be specified in the absence of an __Actor__.
 * __Valuation__: The process of assigning a __Value__.
 * [__Reasonable__/__Unreasonable__](Reasonable.md)
-
-
-\* Marked for future revision.
