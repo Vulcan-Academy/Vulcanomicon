@@ -14,7 +14,7 @@
 * __Object__: A set of correlated __Observations__.
 * __System__: An __Object__ composed of correlated member __Objects__.
 * __Model__: A __System__ that represents another __System__. It can be assigned a truth value (measurement) which expresses the accuracy of the representation. Examples of __Models__ include maps, blueprints, simulations, mathematical models, beliefs and claims.
-* __World State__: Given that the __Information__ in an __Environment__ may change with respect to some parameter (for example, time), __World State__ defines a static snapshot of the __Information__ within an __Environment__. In other words, a __World State__ is an __Environment__ where all __Information__ is held constant. Denoted $$ w \in W $$
+* __World State__: Given that the __Information__ in an __Environment__ may change with respect to some parameter (for example, time), __World State__ defines a static snapshot of the __Information__ within an __Environment__. In other words, a __World State__ is an __Environment__ where all __Information__ is held constant. Denoted $$ w \in W $$.
 * __World Model__: An Agent's internal __Model__ of its __World__. 
 * __Action__: An __Event__ in which __Information__ exits an Agent.
 * __Action Space__: The set of all __Actions__ that a particular Agent may perform. All __Actions__ performed by an Agent are sampled from its __Action Space__.
@@ -30,6 +30,10 @@ V(s, w_1, w_2) = \left\{
 \end{equation}
 $$
 * __Valuation__: The process of assigning a __Value__.
-* __Cost__: A measurement of the aggregate __Value__ of a particular __World State__. Given Agent __Value__ system $$ s $$ and __World__ $$ W $$ with $$ N_W$$ __States__, __Cost__ $$ C(s, w_k) = \frac{1}{N_W - 1} \sum_{i = 1}^{N_W} V(s, w_k, w_i) $$
+* __Cost__: A measurement of the aggregate __Value__ of a particular __World State__. Given Agent __Value__ system $$ s $$ and __World__ $$ W $$ with $$ N_W$$ __States__, __Cost__ is defined as $$ 
+\begin{equation}
+C(s, w_k) = \frac{1}{N_W - 1} \sum_{i = 1}^{N_W} V(s, w_k, w_i) 
+\end{equation}
+$$
 * __Utility__: Synonymous with __Cost__.
 * [__Reasonable__/__Unreasonable__](Reasonable.md)
