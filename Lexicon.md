@@ -18,7 +18,7 @@
 * __World Model__: An Agent's internal __Model__ of its __World__. 
 * __Action__: An __Event__ in which __Information__ exits an Agent.
 * __Action Space__: The set of all __Actions__ that a particular Agent may perform. All __Actions__ performed by an Agent are sampled from its __Action Space__.
-* __Value__: An Agent's expression of preference between two __World States__. __Value__ may favour either __State__, or may reflect indifference. __Value__ is not intrinsic, and cannot be specified in the absence of an Agent. Given an Agent's __Value__ system $$ s $$, __Value__ is formulated as $$
+* __Preference__: An Agent's expression of predilection between two __World States__. __Preference__ may favour either __State__, or may reflect indifference. __Preference__ is not intrinsic, and cannot be specified in the absence of an Agent. Given an Agent's __Preference__ system $$ s $$, __Preference__ is formulated as $$
 \begin{equation}
 V(s, w_1, w_2) = \left\{
 \begin{array}{cl}
@@ -30,10 +30,10 @@ V(s, w_1, w_2) = \left\{
 \end{equation}
 $$
 * __Valuation__: The process of assigning a __Value__.
-* __Cost__: A measurement of the aggregate __Value__ of a particular __World State__. Given Agent __Value__ system $$ s $$ and __World__ $$ W $$ with $$ N_W$$ __States__, __Cost__ is defined as $$ 
+* __Value__: A measurement of the aggregate __Value__ of a particular __World State__. Given Agent __Value__ system $$ s $$ and __World__ $$ W $$ with $$ N_W$$ __States__, __Value__ is defined as $$ 
 \begin{equation}
 C(s, w_k) = \frac{1}{N_W - 1} \sum_{i = 1}^{N_W} V(s, w_k, w_i) 
 \end{equation}
 $$
-* __Utility__: Synonymous with __Cost__.
+* __Utility__: Synonymous with __Value__.
 * [__Reasonable__/__Unreasonable__](Reasonable.md)
