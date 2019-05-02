@@ -22,8 +22,3 @@ The Vulcan Academy's operating system.
 
 1. [Lexicon](Lexicon.md)
 1. [Resources](Resources.md)
-
-<script>
-var fs = require('fs');
-var files = fs.readdirSync('/');
-</script>
