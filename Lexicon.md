@@ -37,3 +37,10 @@ C(s, w_k) = \frac{1}{N_W - 1} \sum_{i = 1}^{N_W} V(s, w_k, w_i)
 $$
 * __Utility__: Synonymous with __Value__.
 * [__Reasonable__/__Unreasonable__](Reasonable.md)
+
+
+Testing:
+
+{% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
