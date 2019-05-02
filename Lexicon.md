@@ -42,5 +42,5 @@ $$
 Testing:
 
 {% for post in site.posts %}
-[{{ post.title }}]({{ post.url }})
+[__{{ post.title }}__]({{ post.url }}): {{post.description}}
 {% endfor %}
