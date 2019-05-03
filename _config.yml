@@ -4,5 +4,5 @@ title: Vulcanomicon
 description: Rationality, ethics, metaphysics.
 permalink: /:collection/:title
 collections:
-  - lexicon
+  lexicon:
     output: true
