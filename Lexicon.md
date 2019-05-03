@@ -41,8 +41,14 @@ $$
 
 Testing:
 
-{{ site.baseurl }}
+
 
 {% for post in site.posts %}
-* [__{{ post.title }}__]({{ post.url }}): {{post.description}}
+* [__{{ post.title }}__]({{ site.baseurl }}{{ post.url }}) : {{post.description}}
+{% endfor %}
+
+Collections:
+
+{% for lexeme in site.lexicon %}
+* [__{{ lexeme.title }}__]({{ site.baseurl }}{{ lexeme.url }}) : {{lexeme.description}}
 {% endfor %}
