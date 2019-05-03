@@ -39,15 +39,6 @@ $$
 * [__Reasonable__/__Unreasonable__](Reasonable.md)
 
 
-Testing:
-
-2
-
-
-{% for post in site.posts %}
-* [__{{ post.title }}__]({{ site.baseurl }}{{ post.url }}) : {{post.description}}
-{% endfor %}
-
 Collections:
 
 {% for lexeme in site.lexicon %}
