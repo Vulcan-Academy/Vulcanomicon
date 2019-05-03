@@ -5,3 +5,7 @@ description: Description with mathjax $$ b \in \{ 0, 1 \} $$
 ---
 
 aww yiss some content.
+
+__test md__
+
+$$ test latex $$
