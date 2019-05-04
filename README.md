@@ -18,7 +18,7 @@ The Vulcan Academy's operating system.
 
 1. The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in these rules are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 1. Lexical additions to the Vulcanomicon will take place as new pages under the `_lexicon` folder of [this GitHub Repository](https://github.com/Vulcan-Academy/Vulcanomicon). They will appear as [Markdown](https://en.wikipedia.org/wiki/Markdown) documents bearing a descriptive file name, and a header which abides by the following format (angle-bracketed sections are up for modification):
-    ```yaml
+    ```
     ---
     layout: post
     title: <your title here>
