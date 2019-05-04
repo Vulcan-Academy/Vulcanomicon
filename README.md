@@ -12,7 +12,7 @@ The Vulcan Academy's operating system.
 1. Logic is the ultimate arbiter of all disagreements.
 1. All rules and resolutions should be logically self-consistent.
 1. Vulcans declare [Crocker's Rules](https://wiki.lesswrong.com/wiki/Crocker's_rules) with each other.
-1. Vulcans should aspire to be [reasonable](/lexicon/reasonable-unreasonable) at all times.
+1. Vulcans should aspire to be [reasonable]({{ site.baseurl }}/lexicon/reasonable-unreasonable) at all times.
 
 ## Conventions
 
