@@ -1,4 +1,10 @@
-# Reasonable
+---
+layout: post
+title: Reasonable/Unreasonable
+description:  A definition of reason.
+---
+
+## Reasonable
 
 To be reasonable is to be ALL (conjuctive) of:
 * rational - to hold logically consistent beliefs and values
@@ -12,7 +18,7 @@ In other words, not unreasonable
 
 ----
 
-# Unreasonable
+## Unreasonable
 
 To be unreasonable is to be ANY (disjunctive) of:
 * irrational - to hold logically inconsistent beliefs and values

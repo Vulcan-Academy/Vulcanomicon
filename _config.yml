@@ -2,3 +2,8 @@ theme: jekyll-theme-slate
 markdown: kramdown
 title: Vulcanomicon
 description: Rationality, ethics, metaphysics.
+permalink: /:collection/:title
+
+collections:
+  lexicon:
+    output: true
